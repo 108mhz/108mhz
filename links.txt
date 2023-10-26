@@ -1,5 +1,11 @@
 # Links
 
+* Mosfet
+https://mosfet.net/
+
+* NODE
+https://n-o-d-e.net/
+
 * Ascii title generator
 https://ascii.today/
 
